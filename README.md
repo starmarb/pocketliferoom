@@ -20,8 +20,7 @@ Each category of life is an item in your room. Every day you record your small e
 
 ## 🕹️ How to Use
 
-Click the pages and use everyday. Since this was hosted only for frontend/demonstration purposes, your data is saved and exported/imported through JSON files in the 'Customize' tab.
-
+Try it yourself [here!](https://starmarb.github.io/pocketliferoom/)
 Everything runs in the browser and saves to local storage, so your data persists between visits on the same device.
 
 **Controls**
